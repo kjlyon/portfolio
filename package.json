@@ -1,9 +1,9 @@
 {
-  "name": "vite-react-typescript-starter",
+  "homepage": "https://kjlyon.github.io/portfolio",
+  "name": "kelly-lyon-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kjlyon.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
